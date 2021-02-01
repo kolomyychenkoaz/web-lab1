@@ -1,0 +1,15 @@
+GET /web/barbershop/index.php HTTP/1.1
+HOST: localhost
+Connection: close
+
+HEAD /web/barbershop/index.php HTTP/1.1
+HOST: localhost
+Connection: close
+
+POST /web/barbershop/index.php HTTP/1.1
+HOST: localhost
+Connection: close
+
+GET hello-world
+HOST: localhost
+Connection: close
